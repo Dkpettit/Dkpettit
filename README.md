@@ -16,6 +16,9 @@
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
 </div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 <!--
 **Dkpettit/Dkpettit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
