@@ -17,7 +17,8 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Dkpettit/Dkpettit/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=Yellow" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=Blue" alt="HTML5" />
 </div>
 <!--
 **Dkpettit/Dkpettit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
