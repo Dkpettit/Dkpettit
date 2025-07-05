@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a Software Developer at a Large International Financial Corporation specializing in Application Development and Support. I enjoy Coding, Playing Poker and my Family.</p>
 </div>
 <!--
 **Dkpettit/Dkpettit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
