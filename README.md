@@ -20,12 +20,12 @@
 <p><h3>Frontend:</h3></p>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=Yellow" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=Blue" alt="HTML5" /><img src="https://img.shields.io/badge/CSS-#663399?style=for-the-badge&logo=css&logoColor=Blue" alt="CSS" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=Blue" alt="HTML5" /><img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=Blue" alt="CSS" />
 </div>
 <p><h3>Backend:</h3></p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Node-#5FA04E?style=for-the-badge&logo=node&logoColor=white" alt="Node" /><img src="https://img.shields.io/badge/Django-#092E20?style=for-the-badge&logo=node&logoColor=Yellow" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-#000000?style=for-the-badge&logo=express&logoColor=Blue" alt="Express" /><img src="https://img.shields.io/badge/.net-#512BD4?style=for-the-badge&logo=.net&logoColor=Blue" alt=".NET" />
+    <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node&logoColor=white" alt="Node" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=node&logoColor=Yellow" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=Blue" alt="Express" /><img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=Blue" alt=".NET" />
 </div>
 <!--
 **Dkpettit/Dkpettit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
