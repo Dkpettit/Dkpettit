@@ -7,6 +7,12 @@
     <h2>🚀 About Me</h2>
     <p>I'm a Software Developer at a Large International Financial Corporation specializing in Application Development and Support. I enjoy Coding, Playing Poker and my Family.</p>
 </div>
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="www.linkedin.com/in/davepettit">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 <!--
 **Dkpettit/Dkpettit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
