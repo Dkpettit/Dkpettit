@@ -9,11 +9,11 @@
 </div>
 <div align="center">
     <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+    <a href="https://www.linkedin.com/in/davepettit/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.github.com/Dkpettit/">
-        <img src="https://img.shields.io/badge/Github?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
 </div>
 <!--
