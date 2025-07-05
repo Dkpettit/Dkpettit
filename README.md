@@ -16,6 +16,7 @@
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
 </div>
+<h2>Skills</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=Yellow" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=Blue" alt="HTML5" />
