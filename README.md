@@ -1,8 +1,10 @@
-<div align="center">
+<!--<div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dave;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
-</div><p></p>
+</div><p></p> -->
+<img class="profile-background-image__image relative
+                full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media.licdn.com/dms/image/v2/D5616AQFKwVEfLRG0AA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699828574924?e=1757548800&amp;v=beta&amp;t=eobTVGxktV-6caCJlwA_T39Tks9BNimLBRR_8sPgjF4" style="left:0px;top:0px;" fetchpriority="high">
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dkpettit&theme=github_dark" alt="Dkpettit's GitHub Stats"/>
 </div>
